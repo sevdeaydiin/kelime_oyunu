@@ -1,4 +1,4 @@
-# ko
+# kelime_oyunu
 
 A new Flutter project.
 
