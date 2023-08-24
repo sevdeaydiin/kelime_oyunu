@@ -1,9 +1,9 @@
 # kelime_oyunu
 
-A new Flutter project.
+A new term project for school.
 
-![startPage](https://github.com/sevdeaydiin/kelime_oyunu/assets/74006598/b71eed13-18ff-4060-8747-1d419fd315ff)
-
+![questionPage](https://github.com/sevdeaydiin/kelime_oyunu/assets/74006598/10628350-4a31-4341-adce-70202815e83a)
+![startPage](https://github.com/sevdeaydiin/kelime_oyunu/assets/74006598/4a023083-9063-4096-80e8-d6bedb1b0073)
 
 ## Getting Started
 
